@@ -59,7 +59,7 @@ To send a matching route from the browser, you can use an html a tag that genera
 
 
 Data
-[
+`[
   {
     "id": 1,
     "name": "Leanne Graham",
@@ -290,4 +290,4 @@ Data
       "bs": "target end-to-end models"
     }
   }
-]
+]`
